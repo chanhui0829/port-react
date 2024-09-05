@@ -8,6 +8,7 @@ const App = () => {
     <BrowserRouter>
         <Routes>
             <Route path="/" element={<HomeView />} />
+
         </Routes>
     </BrowserRouter>
     );
